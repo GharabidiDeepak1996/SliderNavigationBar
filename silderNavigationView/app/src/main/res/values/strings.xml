@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sider</string>
+    <string name="home">menu_home</string>
+    <string name="menu_gallery">menu_gallery</string>
+    <string name="menu_slideshow">menu_slideshow</string>
+    <string name="menu_tools">menu_tools</string>
+    <string name="communicate">Communicate</string>
+    <string name="menu_share">menu_share</string>
+    <string name="menu_send">menu_send</string>
+    <string name="settings">settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
